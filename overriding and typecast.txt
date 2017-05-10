@@ -1,0 +1,77 @@
+type cast
+ce
+if you call the same method as in parent class and behavior of the child is specific to the then its overriding
+
+if you refer to parent class and also take methods of the child then you have to typecast
+
+(hi)h) tellyou();
+
+eg: if your child has more methods than the parent the parent wouldnt know hence we should typecast that method
+
+
+java does not have multiple inheritance
+
+
+interfaces are 100% abstract - they do not understand anything apart from contract
+
+static stack
+
+
+no preprocessor concept in java
+
+in java there is no user defined method its system defined method
+
+stack - last in firs out (lifo)
+
+mutable -  object class allows for change - they have setters. they are good candidate for re utilizing the memory allocation
+
+immutable - once object is created cannot be changed - they do not have setters
+
+in java there is no address
+
+finalize - where the garbage colllector did not do the job so finalize
+
+
+if you declare a class as final you cannot inherit it 
+
+if you a method in the class as final that method cannot be inherited
+
+Throw exception - it can be done with keyword throw
+
+
+
+
+
+class can extend class
+a class implements an interface or interfaces
+interface cannot be instantiated
+
+Annonymous
+
+if you only have one field its compareTo
+if more than that its comparator
+
+
+scanf("%d", &n);
+
+char
+
+Input stream reader 
+output stream reader 
+
+serialization - store the object-non character base eg: image, file, audio in order to do that we do serialization
+
+marker interface - where there is no methods in the interface and one such thing is serializable
+marshall and unmarshall the data
+
+
+Set will never store data in the way you give it and it is not repetitive
+
+
+
+child of sorted set is tree set
+
+map is more for key value pair
+
+pooling - keep the object readily available
+
